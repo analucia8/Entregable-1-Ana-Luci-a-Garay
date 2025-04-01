@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    
+}
+h1 {
+    color: brown;
+    text-align: center;
+}
+img {
+    width: 170px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
